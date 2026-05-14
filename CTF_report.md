@@ -74,3 +74,26 @@ CTFはハッキング技術を扱う競技であるが、目的は不正行為�
 についても理解を深めたい。
 
 さらに、初心者でも取り組みやすい演習問題や、実際のCTF形式の演習を取り入れていただけると、より理解が深まると感じる。
+
+---
+
+## CTFで使われる主なツール
+
+CTFでは、問題を解析したり脆弱性を調査したりするために、さまざまなツールが利用されている。  
+以下は、CTFでよく使用される代表的なツールである。
+
+| ツール名 | 用途 | リンク |
+|---|---|---|
+| Burp Suite | Web通信の解析・改ざん | [Burp Suite公式サイト](https://portswigger.net/burp) |
+| Wireshark | パケット通信の解析 | [Wireshark公式サイト](https://www.wireshark.org/) |
+| Nmap | ネットワーク探索・ポートスキャン | [Nmap公式サイト](https://nmap.org/) |
+| Ghidra | バイナリ解析・リバースエンジニアリング | [Ghidra公式サイト](https://ghidra-sre.org/) |
+| pwntools | Exploit作成支援ライブラリ | [pwntools GitHub](https://github.com/Gallopsled/pwntools) |
+| CyberChef | 暗号・データ変換ツール | [CyberChef公式サイト](https://gchq.github.io/CyberChef/) |
+| binwalk | ファイル内部解析 | [binwalk GitHub](https://github.com/ReFirmLabs/binwalk) |
+| exiftool | ファイルメタデータ解析 | [ExifTool公式サイト](https://exiftool.org/) |
+| John the Ripper | パスワード解析 | [John the Ripper公式サイト](https://www.openwall.com/john/) |
+| Hydra | パスワード総当たり攻撃テスト | [Hydra GitHub](https://github.com/vanhauser-thc/thc-hydra) |
+
+---
+
